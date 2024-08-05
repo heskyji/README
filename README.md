@@ -31,7 +31,6 @@ My calendar is set to be visible for anyone within the organisation. So you shou
 If you want to schedule a meeting with me, I will be available if my calendar says so; vice-versa.
 
 ## One-on-ones
-I don't proactively schedule regular/recurring 1:1 with my reports. As my report, if you would like recurring (or ad-hoc/on-demand) 1:1 with me, I'm very happy to do so, feel free to schedule it in the calendar.
 
 I believe in that 1:1 is primarily about the report, only secondarily about the manager. As my report, I expect you to use 1:1 to discuss your needs, your ambitions and your ideas.
 
